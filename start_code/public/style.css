@@ -1,0 +1,27 @@
+body {
+background-color:grey;
+
+}
+
+
+h1 {
+color:black;
+border: 5px solid black;
+
+text-align: center;
+}
+
+h3{
+  color:black;
+  border: 5px solid black;
+  text-align: center;
+  font-size: 60px;
+}
+
+p{
+  color:black;
+  border: 5px solid black;
+     text-align: center;
+     font-size: 50px;
+}
+
